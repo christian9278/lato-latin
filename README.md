@@ -1,17 +1,17 @@
-# lato-v11-latin
+# lato-latin
 
 Lato web font package with CSS.
 
 ## Installation
 
 ```
-bower install lato-v11-latin --save
+bower install lato-latin --save
 ```
 
 ## Usage
 
 ```
-@import "../bower_components/lato-v11-latin/css/fonts.css";
+@import "../bower_components/lato-latin/css/fonts.css";
 ```
 
 ## Contributing
@@ -24,8 +24,6 @@ bower install lato-v11-latin --save
 
 ## History
 
-- v0.0.3: Updated README.md
-- v0.0.2: Moved fonts.css into fonts folder
 - v0.0.1: Initial commit
 
 ## Credits
